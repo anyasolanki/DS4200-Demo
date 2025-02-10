@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#main {
+    color: rgb(241, 124, 188);
+    background-color: black;
+}
+
+.A {
+    border: 4px solid rgb(241, 124, 188);
+}
